@@ -3,7 +3,8 @@
 ![Screenshot da tela inicial do AluraBooks](https://imgur.com/6GsjQvJ.png)
 
 Este projeto é um site do e-commerce AluraBooks, uma livraria online de livros sobre tecnologia.
-
+## Link para o Projeto
+Confira o projeto no [Alura Books](https://alurabooks-cyan.vercel.app/).
 ## Tecnologias Utilizadas
 - HTML
 - CSS
